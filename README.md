@@ -13,3 +13,11 @@ Import data, and conduct data wrangling to achieve an ideal dataset.
 
 4-	Modelling Gradient boost and visualization the result.
 
+
+# Conclusion 
+
+
+With an RMSE of 0.99 and high R-squared value of 0.89 indicate a successful application of the model in capturing the underlying patterns in the data.
+
+
+
