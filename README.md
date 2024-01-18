@@ -11,7 +11,7 @@ Import data, and conduct data wrangling to achieve an ideal dataset.
 
 3-	Data visualization.
 
-4-	Modelling Gradient boost and visualization the result.
+4-	Modelling Gradient boost and visualizating the result.
 
 
 # Conclusion 
